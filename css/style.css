@@ -7,10 +7,10 @@
    Design Tokens (CSS Variables)
 ======================================== */
 :root {
-  --color-primary:      #2e6fbd;
+  --color-primary:      #285ea0;
   --color-accent:       #f0c040;
   --color-dark:         #111827;
-  --color-heading:      #1a2b3c;
+  --color-heading:      #15222f;
   --color-muted:        #6b7280;
   --color-bg:           #ffffff;
   --color-surface:      #f8f9fa;
